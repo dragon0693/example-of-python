@@ -5,8 +5,8 @@ Con este repositorio pretendo compartir un ejercio que yo mismo resolvi en pytho
 
 
 ###  Materiales
-- [Diapositivay Vohr](https://www.youtube.com/watch?v=SrNQS8J67zc&t=59s)
-- [Clases y Ejercicios](https://github.com/frontarm/async-javascript-cheatsheet)
+- [Diapositivas ](https://www.youtube.com/watch?v=SrNQS8J67zc&t=59s)
+- [Clases y Ejercicios](https://github.com/frontarm/asyn)
 
 
 
