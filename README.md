@@ -8,6 +8,8 @@ Con este repositorio pretendo compartir un ejercio que yo mismo resolvi en pytho
 - [Diapositivas ](https://www.youtube.com/watch?v=SrNQS8J67zc&t=59s)
 - [Clases y Ejercicios](https://github.com/frontarm/asyn)
 
+### +
 
+Para más información contante en el siguiente link 
 
 https://drive.google.com/drive/folders/1cZUfaEqS4Fc3W1C7Vpwphdrji-wqfBqz?usp=sharing
